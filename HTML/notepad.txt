@@ -1,0 +1,3 @@
+Shortcut key 
+
+1. ketik "!" dan selanjutnya TAB ==> generate doctype html5
