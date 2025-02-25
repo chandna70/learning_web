@@ -1,3 +1,15 @@
 Shortcut key 
 
 1. ketik "!" dan selanjutnya TAB ==> generate doctype html5
+2. <div> digunakan untuk melakukan section content dalam satu grup
+3. <span> Merupakan elemen inline, sehingga tidak memulai baris baru 
+          Digunakan untuk mengubah gaya pada elemen kecil tanpa mengganggu struktur halaman 
+4. <hr> Merupakan break element
+5. <br> merpakan break element
+6. <sup> Script karakter memuat character kecil pada atas
+7. <sub> Script karakter memuat character kecil pada bawah
+8. <main> digunakna untuk mendefeinisikan 1 container content dalam 1 page
+9. <nav> digunakan untuk menyajikan link navigasi
+10 <section> digunakan untuk menyajikan berupa section yang bersifat standalone
+11. <article> digunakan untuk self-contained composition dalam sebuah document. (biasanya digunakan pada forum post, artikel koran atau blog entry)
+12. <aside> digunakna untuk reprsentasi satu porsi konten dari main konten hanya saja bersebelahan dengan main konten
